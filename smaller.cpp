@@ -1,6 +1,6 @@
 /*
 Author: Fatima Asif
-Course: CSCI-136
+Course: CSCI-135
 Instructor: 
 Assignment: smaller.cpp, e.g., Lab1A
 
@@ -28,5 +28,5 @@ int main()
  else{
     cout << num1 << " is the smaller number." << endl;
  }
- 
+
 }

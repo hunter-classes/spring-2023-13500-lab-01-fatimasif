@@ -1,6 +1,6 @@
 /*
 Author: Fatima Asif
-Course: CSCI-136
+Course: CSCI-135
 Instructor: 
 Assignment: smaller3.cpp, e.g., Lab1B
 
