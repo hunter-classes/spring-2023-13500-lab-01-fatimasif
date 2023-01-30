@@ -24,6 +24,6 @@ int main()
     cout << num2 << " is the smaller number." << endl;
  } 
  else{
-    cout << num1 << " is the smaller numer." << endl;
+    cout << num1 << " is the smaller number." << endl;
  }
 }
