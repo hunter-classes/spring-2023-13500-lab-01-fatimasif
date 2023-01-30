@@ -13,17 +13,20 @@ using namespace std;
 
 int main()
 {
+   // declaring variables
  int num1;
  int num2;
+   // storing the users input in the variables
  cout << "Input a number!" << endl;
  cin >> num1;
  cout << "Input a second number!" << endl;
  cin >> num2;
-
+   // comparing the numbers in an if-else statement
  if (num1 > num2){
     cout << num2 << " is the smaller number." << endl;
  } 
  else{
     cout << num1 << " is the smaller number." << endl;
  }
+ 
 }

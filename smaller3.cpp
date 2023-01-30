@@ -2,7 +2,7 @@
 Author: Fatima Asif
 Course: CSCI-136
 Instructor: 
-Assignment: smaller.cpp, e.g., Lab1A
+Assignment: smaller3.cpp, e.g., Lab1B
 
 Write a program smaller3.cpp that asks the user to input three 
 integer numbers, and prints out the smallest of the three.
@@ -28,7 +28,7 @@ int num3;
  cin >> num2;
  cout << "Input a third numer!" << endl;
  cin >> num3;
-
+    // using an if-else statement to compare the numbers
  if (num1 > num2 && num3 > num2){
     cout << num2 << " is the smallest number." << endl;
  } 
