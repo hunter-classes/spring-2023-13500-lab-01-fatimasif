@@ -1,8 +1,8 @@
 /*
 Author: Fatima Asif
 Course: CSCI-135
-Instructor: 
-Assignment: smaller3.cpp, e.g., Lab1B
+Instructor: M. Zamansky
+Assignment: smaller3.cpp, Lab-01
 
 Write a program smaller3.cpp that asks the user to input three 
 integer numbers, and prints out the smallest of the three.

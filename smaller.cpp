@@ -1,8 +1,8 @@
 /*
 Author: Fatima Asif
 Course: CSCI-135
-Instructor: 
-Assignment: smaller.cpp, e.g., Lab1A
+Instructor: M. Zamansky
+Assignment: smaller.cpp, Lab-01
 
 Write a program smaller.cpp that asks the user to input two integer
 numbers and prints out the smaller of the two.

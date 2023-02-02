@@ -1,8 +1,8 @@
 /*
 Author: Fatima Asif
 Course: CSCI-135
-Instructor: 
-Assignment: leap.cpp, e.g., Lab1C
+Instructor: M. Zamansky
+Assignment: leap.cpp, Lab-01
 
 Write a program leap.cpp that asks the user to input an integer 
 representing a year number (1999, 2016, etc.). If the input year is a 
@@ -46,5 +46,7 @@ else if( year % 400 != 0){
 else{
     cout << "It is a leap year" << endl;
 }
+
+return 0;
 
 }
